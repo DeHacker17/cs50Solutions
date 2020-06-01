@@ -1,2 +1,5 @@
 theme: jekyll-theme-architect
 gem "github-pages", group: :jekyll_plugins
+
+title: [cs50 Solutions]
+description: [A short description of your site's purpose]
